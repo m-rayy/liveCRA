@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/liveCRA/static/css/main.a29d1bef.chunk.css",
+    "main.js": "/liveCRA/static/js/main.914839cd.chunk.js",
+    "main.js.map": "/liveCRA/static/js/main.914839cd.chunk.js.map",
+    "runtime-main.js": "/liveCRA/static/js/runtime-main.c3e63c2f.js",
+    "runtime-main.js.map": "/liveCRA/static/js/runtime-main.c3e63c2f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/liveCRA/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f690e5d6.chunk.js": "/liveCRA/static/js/2.f690e5d6.chunk.js",
+    "static/js/2.f690e5d6.chunk.js.map": "/liveCRA/static/js/2.f690e5d6.chunk.js.map",
+    "index.html": "/liveCRA/index.html",
+    "precache-manifest.13c7f62a7abea6aeef7413e810fcd676.js": "/liveCRA/precache-manifest.13c7f62a7abea6aeef7413e810fcd676.js",
+    "service-worker.js": "/liveCRA/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/liveCRA/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.a29d1bef.chunk.css.map": "/liveCRA/static/css/main.a29d1bef.chunk.css.map",
+    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/liveCRA/static/js/2.f690e5d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/liveCRA/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e63c2f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f690e5d6.chunk.js",
+    "static/css/main.a29d1bef.chunk.css",
+    "static/js/main.914839cd.chunk.js"
+  ]
+}
